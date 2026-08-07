@@ -4,6 +4,11 @@
 
 The application is designed for developers, database administrators, and advanced users who need a fast, intuitive SQL client without unnecessary complexity.
 
+## Download
+
+Download the latest version of TrapSQL for Windows.
+TrapSQL Installer: https://www.kasman.sk/kom/trapsql.exe
+
 ## Key Features
 
 * Support for MySQL, MariaDB, and Microsoft SQL Server
