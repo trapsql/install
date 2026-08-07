@@ -1,0 +1,1 @@
+**TrapSQL** is a free database management tool for **MySQL**, **MariaDB**, and **Microsoft SQL Server**, featuring a powerful SQL editor, built-in AI assistant, and intuitive navigation between related tables using foreign keys. It helps developers and database administrators create, edit, browse, and manage databases faster through a modern and user-friendly interface.
