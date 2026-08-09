@@ -43,3 +43,7 @@ TrapSQL is ideal for:
 ## Why Choose TrapSQL?
 
 TrapSQL combines ease of use with powerful database management features. In addition to creating and managing SQL queries, it provides intuitive navigation between related tables, allowing users to quickly explore connected data without manually writing complex SQL statements. The application is free to use and is continuously improved with a focus on speed, reliability, and productivity.
+
+## Discussions
+
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-brightgreen?style=for-the-badge&logo=github)](https://github.com/trapsql/install/discussions/1)
