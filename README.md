@@ -7,7 +7,7 @@ The application is designed for developers, database administrators, and advance
 ## Download
 
 Download the latest version of TrapSQL for Windows.
-TrapSQL Installer: https://www.kasman.sk/kom/trapsql.exe
+TrapSQL Installer: [https://www.kasman.sk/kom/trapsql.exe](https://trapsql.agilesoft.sk/trapsql.exe)
 
 ## Key Features
 
